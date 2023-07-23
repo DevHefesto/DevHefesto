@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil!
 
-👋 Olá, sou [seu nome], um(a) entusiasta da programação e apaixonado(a) por tecnologia. Seja bem-vindo(a) ao meu cantinho no GitHub!
+👋 Olá, sou Pedro Macedo de Freitas Oliveira de Souza, um(a) entusiasta da programação e apaixonado(a) por tecnologia. Seja bem-vindo(a) ao meu cantinho no GitHub!
 
 🌱 Atualmente, estou em constante aprendizado, buscando aprimorar minhas habilidades em desenvolvimento web e outras áreas relacionadas à programação.
 
