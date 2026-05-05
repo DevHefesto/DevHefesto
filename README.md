@@ -2,7 +2,7 @@
 
 Desenvolvedor full-stack com experiência real em produção — de APIs e automações até IAM corporativo em ambientes de grande escala. Construo software que resolve problemas de verdade: desde planilhas inteligentes e sites dinâmicos até plataformas SaaS com fila de mensagens, multi-tenancy e observabilidade.
 
-Atualmente na **Oi** como analista em **Identity and Access Management**, onde opero sobre Microsoft Entra ID, Active Directory e SailPoint ISC. Em paralelo, desenvolvo o **ZapFlow** — middleware SaaS para comunicação via WhatsApp Cloud API (Meta), com NestJS, BullMQ, MongoDB e Redis.
+Minha última atuação na **Oi** como analista em **Identity and Access Management**, onde operei sobre Microsoft Entra ID, Active Directory e SailPoint ISC. Hoje desenvolvo o **ZapFlow** — middleware SaaS para comunicação via WhatsApp Cloud API (Meta), com NestJS, BullMQ, MongoDB e Redis.
 
 ---
 
