@@ -1,61 +1,88 @@
-## Pedro Macedo · Engenheiro de Software & Especialista em Segurança de Acesso
+# Pedro Macedo
 
-Desenvolvedor full-stack com experiência real em produção — de APIs e automações até IAM corporativo em ambientes de grande escala. Construo software que resolve problemas de verdade: desde planilhas inteligentes e sites dinâmicos até plataformas SaaS com fila de mensagens, multi-tenancy e observabilidade.
+**Analista de Segurança da Informação | Identity & Access Management**  
+Salvador, BA · Disponível para remoto (Brasil) ou híbrido/presencial em Salvador
 
-Minha última atuação na **Oi** como analista em **Identity and Access Management**, onde operei sobre Microsoft Entra ID, Active Directory e SailPoint ISC. Hoje desenvolvo o **ZapFlow** — middleware SaaS para comunicação via WhatsApp Cloud API (Meta), com NestJS, BullMQ, MongoDB e Redis.
-
----
-
-### O que eu faço
-
-**Segurança & IAM**
-- Identity Lifecycle Management (Joiner / Mover / Leaver) com Microsoft Entra ID, Active Directory e SailPoint ISC
-- Controle de acessos via RBAC e Least Privilege; resultei em ~30% de redução de acessos desnecessários em revisões periódicas
-- Privileged Access Management (PAM), Segregation of Duties (SoD), Access Reviews em ambientes on-premises e híbridos
-- Análise de logs, triagem de incidentes, conformidade com LGPD, ISO 27001 e NIST CSF
-- Automação de rotinas operacionais com PowerShell
-
-**Desenvolvimento de Software**
-- Backend: NestJS, Node.js, TypeScript, Python — arquitetura em camadas, DDD, filas com BullMQ
-- APIs REST, integração com Meta Cloud API, automações de conversão e rastreamento
-- Frontend: React, HTML, CSS, JavaScript — interfaces funcionais e dashboards
-- Banco de dados: MongoDB, Redis; modelagem multi-tenant com índices compostos
-- Automação de relatórios, planilhas programáticas e scripts de ETL
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmdfos)
+[![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedromacedo51@hotmail.com)
 
 ---
 
-### Projetos que construí
+## Sobre mim
 
-| Projeto | Descrição |
+Profissional de TI com foco em **Identity and Access Management (IAM)** e **Segurança da Informação**, com dois anos de experiência prática em ambientes corporativos de grande porte na **OI** e **OI Soluções**.
+
+Atuei com o ciclo completo de gestão de identidades: desde provisionamento e revisão de acessos até automação de rotinas com PowerShell, sempre orientado a conformidade com **ISO 27001**, **NIST CSF** e **LGPD**. Um resultado concreto: reduzi aproximadamente **30% de acessos desnecessários** em revisões periódicas de permissões.
+
+Também tenho passagem por pré-venda técnica de **Cloud Computing**, com análise de requisitos, elaboração de propostas e apoio a processos de licitação.
+
+Graduado em **Análise e Desenvolvimento de Sistemas** (Universidade Descomplica, 2026).
+
+---
+
+## Experiência
+
+**Estagiário — Gestão de Identidades e Acessos (IAM)**  
+OI · Mar/2023 – Mai/2025
+
+- Operação de **Microsoft Entra ID (Azure AD)** e **Active Directory** para concessão, revisão, ajuste e revogação de acessos
+- Gestão de identidades com **RBAC** e **Least Privilege**; suporte ao ciclo **Joiner / Mover / Leaver**
+- Execução de **Access Reviews** em ambientes on-premises e híbridos → redução de ~30% de acessos desnecessários
+- Apoio em **PAM (Privileged Access Management)** e **Segregation of Duties (SoD)**
+- Automação de rotinas operacionais com **PowerShell**
+- Conformidade com **LGPD**, **ISO 27001** e **NIST CSF**; registro em ferramentas **ITSM**
+
+---
+
+**Estagiário — Arquitetura de Soluções em Nuvem / Pré-Venda Técnica**  
+OI Soluções · Jan/2025 – Fev/2026
+
+- Análise de requisitos técnicos e de negócio para projetos de **Cloud Computing**
+- Elaboração de propostas técnicas com análise de viabilidade
+- Interpretação de editais de licitação pública
+
+---
+
+## Habilidades técnicas
+
+| Categoria | Tecnologias |
 |---|---|
-| **ZapFlow** | SaaS multi-tenant para WhatsApp em escala — NestJS + BullMQ + Redis + MongoDB |
-| **Sistema de Estoque** | Controle de inventário com backend estruturado |
-| **Sistema de Agendamento** | Plataforma completa para marcação de serviços |
-| **Doom Dinâmico** | Site interativo para apresentação de projeto de cliente |
-| **Pong** | Jogo clássico implementado do zero |
-| **APIs de Conversão** | Rastreamento e otimização de funil para agência de marketing |
-| **Relatórios Automatizados** | Geração automática de relatórios de performance para clientes da agência |
+| **Plataformas IAM** | Microsoft Entra ID · Azure AD · Active Directory · Apache Directory / LDAP |
+| **Governança & Controles** | RBAC · Least Privilege · PAM · SoD · Identity Lifecycle Management · Access Provisioning · Access Review |
+| **Segurança & Conformidade** | ISO 27001 · NIST CSF · LGPD · ITSM |
+| **Scripting** | PowerShell |
+| **Cloud** | Cloud Computing · Arquitetura de Soluções · Análise de Requisitos |
+| **Idiomas** | Português (nativo) · Inglês (intermediário) |
 
 ---
 
-### Stack principal
+## Projetos e laboratórios
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+> Em construção — documentando aqui os labs práticos que estou desenvolvendo para aprofundar conhecimento em IAM fora do ambiente corporativo.
 
-##
+### 🔐 Lab IAM — Simulação de controles de acesso com Entra ID e Active Directory
+*Em andamento*
 
-<div>
-  <a href="mailto:pedromacedo51@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-macedo-83a692206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Laboratório prático inspirado no ataque à Uber (2022), onde credenciais comprometidas + ausência de controles de Least Privilege e PAM permitiram escalada de privilégios. O lab simula como controles adequados de IAM teriam mitigado o incidente.
+
+**O que está sendo implementado:**
+- Ambiente Active Directory em VM local (Windows Server — avaliação gratuita)
+- Tenant Microsoft Entra ID via Microsoft 365 Developer Program (gratuito)
+- Políticas de Least Privilege, RBAC e Conditional Access
+- Scripts PowerShell para provisionamento e revisão de acessos
+- Documentação de cenários de ataque e controles mitigatórios
+
+---
+
+## Formação
+
+**Análise e Desenvolvimento de Sistemas**  
+Universidade Descomplica · Concluído em 2026
+
+---
+
+## Em busca de
+
+Posições de **Analista de Segurança da Informação Júnior** ou **Analista IAM Júnior** — remoto (Brasil) ou presencial/híbrido em Salvador, BA.
+
+Se você trabalha com IAM, Segurança da Informação ou GRC e quiser trocar uma ideia, pode me chamar no [LinkedIn](https://www.linkedin.com/in/pmdfos) ou por [e-mail](mailto:pedromacedo51@hotmail.com).
